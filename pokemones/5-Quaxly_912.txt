@@ -1,0 +1,9 @@
+desc: Un Pokémon llegado hace tiempo desde tierras lejanas 
+y ya establecido en la región. El gel que secreta por las plumas 
+repele el agua y la mugre.
+
+habs:
+Torrente
+
+Tipo: Agua
+Debilidad: Planta Eléctrico

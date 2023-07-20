@@ -1,0 +1,9 @@
+desc: Manipula unas pequeñas unidades conocidas como mininarices, 
+aunque estas a veces se pierden y no saben cómo regresar a Probopass.
+
+habs:
+Robustez
+Imán
+
+Tipo: Roca Acero
+Debilidad: Agua Lucha Tierra

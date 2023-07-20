@@ -1,0 +1,6 @@
+En un giro inesperado del destino, cuatro amigos con una pasión compartida por
+los sandwitches (y por Pokemon), decidieron unir sus fuerzas y montar una empresa que llevara
+su amor por estos deliciosos manjares al siguiente nivel. Con sabores y creatividad
+sin limites, cada uno aporto sus talentos culinarios y digitales únicos a la empresa.
+Juntos, construyeron este CMS de pokemon donde los usuarios puedan deleitarse
+con creaciones unicas y disfrutar de la pasion por los pokemon que los une.

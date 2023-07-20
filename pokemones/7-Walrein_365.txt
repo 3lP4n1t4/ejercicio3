@@ -1,0 +1,10 @@
+desc: Forman manadas de unos 20 o 30 individuos. 
+Si el grupo se ve atacado por un enemigo, el líder 
+se interpondrá para proteger al resto.
+
+habs:
+Sebo
+Gélido
+
+Tipo: Hielo Agua
+Debilidad: Planta Eléctrico Lucha Roca

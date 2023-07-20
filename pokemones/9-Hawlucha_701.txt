@@ -1,0 +1,10 @@
+desc: Remata a sus rivales con elegancia dando ágiles saltos 
+con la ayuda de las alas. Se trata de una técnica que perfecciona 
+en su bosque natal.
+
+habs:
+Flexibilidad
+Liviano
+
+Tipo: Lucha Volador
+Debilidad: Psíquico Volador Hada Eléctrico Hielo

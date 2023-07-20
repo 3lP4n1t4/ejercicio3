@@ -1,0 +1,9 @@
+desc: Construye laberintos en lugares oscuros. 
+Si alguien lo descubre, huye cavando un agujero con la cola.
+
+habs:
+Fuga
+Dicha
+
+Tipo: Normal
+Debilidad: Lucha

@@ -1,0 +1,10 @@
+desc: Corre por montañas y prados a la velocidad del viento. 
+Su cuerno curvado tiene tal sensibilidad que puede predecir 
+catástrofes naturales.
+
+habs:
+Presión
+Afortunado
+
+Tipo: Siniestro
+Debilidad: Hada Bicho Lucha
