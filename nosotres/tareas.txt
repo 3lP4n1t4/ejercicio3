@@ -1,0 +1,14 @@
+Sergio:
+	- Investigación de instalación y gestión de Joomla en Máquina Virtual con Apache2
+	- Buscar contenido (Imágenes y descripciones)
+	- Desarrollo de texto y correcciones
+	- Reuniones afines a los procesos de creación del CMS
+
+Yeray:
+	- Investigación de instalación y gestión de Joomla en Máquina Virtual con Apache2
+	- Servidor de Joomla levantado con Python3 en máquina virtual
+	- Buscar contenido (Imágenes y descripciones)
+	- Desarrollo de texto y correcciones
+	- Gestión de fotografías del personal
+	- Gestión de la información en la configuración de proyecto Wordpress y post varios
+	- Reuniones afines a los procesos de creación del CMS
